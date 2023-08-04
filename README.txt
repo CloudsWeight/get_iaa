@@ -1,0 +1,4 @@
+
+* needs an array of files implemented for real use
+* needs folder structures for each pdf document to house multiple pages correctly
+* possible to implement as a linux if needed for scripting
